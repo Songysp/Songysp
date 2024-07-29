@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # CleanEat Project
 * CLEAN EAT는 위생 등급별, 모범 음식점 지정, 위생법 위반 업체들을 지도와 리스트 화면으로 확인할 수 있는 서비스입니다. 사용자는 자신의 위치나 관심 지역에서 신뢰할 수 있는 식당을 쉽게 찾을 수 있습니다.
 
@@ -28,20 +26,28 @@
 ### [의사소통 백엔드](https://github.com/Songysp/DoctorChat_BackEnd)
 
 # 논문 리뷰
-### BPE ( Byte Pair Encoding )
-Neural Machine Translation of Rare Words with Subword Units
 
-[리뷰](https://github.com/Songysp/paper/blob/main/BPE.ipynb)
 
-### Sequence to Sequence
-Sequence to Sequence Learning with Neural Networks
+<details>
+  <summary>펼치기/접기</summary>
+  
+  ### BPE (Byte Pair Encoding)
+  Neural Machine Translation of Rare Words with Subword Units
+  
+  [리뷰](https://github.com/Songysp/paper/blob/main/BPE.ipynb)
+  
+  ### Sequence to Sequence
+  Sequence to Sequence Learning with Neural Networks
+  
+  [리뷰](https://github.com/Songysp/paper/blob/main/Seq%202%20Seq.ipynb)
+  
+  ### WordPiece Tokenizer
+  Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
+  
+  [리뷰](https://github.com/Songysp/paper/blob/main/WordPiece%20Tokenizer.ipynb)
 
-[리뷰](https://github.com/Songysp/paper/blob/main/Seq%202%20Seq.ipynb)
+</details>
 
-### WordPiece Tokenizer
-Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation
-
-[리뷰](https://github.com/Songysp/paper/blob/main/WordPiece%20Tokenizer.ipyn)
 
 # Gradient-Boosting 분석
 ### [Gradient-Boosting](https://github.com/Songysp/Gradient-Boosting)

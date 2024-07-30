@@ -67,7 +67,7 @@ https://hyeon9502.tistory.com/
 ### [PlanUP BackEnd](https://github.com/Songysp/PlanUP_backend)
 
 # 의사소통 프로젝트
-의사소통은 ~~기반의 의료상담 챗봇 프로젝트
+의사소통은 polyglot-ko-medical-5.8b모델 을 활용한 의료상담 챗봇 프로젝트
 
 ### [의사소통 프론트엔드](https://github.com/Songysp/DoctorChat_frontend)
 ### [의사소통 백엔드](https://github.com/Songysp/DoctorChat_BackEnd)

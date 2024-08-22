@@ -30,11 +30,10 @@
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  
  ### blog
- https://hyeon9502.tistory.com/
+ [티스토리](https://hyeon9502.tistory.com/)
 
- ### Notion
 
- https://glowing-hardcover-f38.notion.site/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e&pvs=4
+ [노션](https://glowing-hardcover-f38.notion.site/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e&pvs=4)
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Songysp&show_icons=true&theme=radical)
  

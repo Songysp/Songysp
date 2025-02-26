@@ -51,18 +51,19 @@
  
   # 의사소통 프로젝트
  
- ![의사소통 (3)](https://github.com/user-attachments/assets/1d09799e-45ce-480a-bac2-b509f768de38)
  
 의사소통 의료상담 챗봇은 바쁜 일상 속에서 병원을 방문할 시간이 없거나 어느 병원에 가야 할지 고민하는 사용자들을 위해 설계된 헬스케어 솔루션입니다. GPT-NeoX 기반의 Polygloy-ko 모델을 활용하여, 
 사용자의 증상을 분석하고 의심되는 질병을 추정하며, 적합한 병원을 추천하고 간단한 대처 방법을 제공합니다.
+
+ ![의사소통 (3)](https://github.com/user-attachments/assets/1d09799e-45ce-480a-bac2-b509f768de38)
  
  ### [의사소통 프론트엔드](https://github.com/Songysp/DoctorChat_frontend)
  ### [의사소통 백엔드](https://github.com/Songysp/DoctorChat_BackEnd)
 
+ 
  # PlanUP Project
  ### 플랜업( PLAN UP )
 
- ![PLAN_UP 기획서_page-0002](https://github.com/user-attachments/assets/ff59fad1-362a-4d70-88a9-5dded9682f5f)
  **취업준비를 위한 여러분들을 위해, 캘린더를 통한 일정관리 서비스를 제공합니다!**
  
  **취업 공고 추가** 
@@ -74,10 +75,15 @@
  
    * 준비하시는 자격증이 있다면, 자격증 검색 기능을 통해,원하시는 자격증 시험 일정을 선택하셔서, 나의 캘린더 일정에 추가할 수 있습니다!
  **플랜 업과 함께 목표를 이루시도록 도와드릴게요!**
+
+ ![PLAN_UP 기획서_page-0002](https://github.com/user-attachments/assets/ff59fad1-362a-4d70-88a9-5dded9682f5f)
+ 
  ### [PlanUP FrontEnd](https://github.com/Songysp/PlanUP_frontend)
  ### [PlanUP BackEnd](https://github.com/Songysp/PlanUP_backend)
  
  # CleanEat Project
+ 
+ 
  * CLEAN EAT는 위생 등급별, 모범 음식점 지정, 위생법 위반 업체들을 지도와 리스트 화면으로 확인할 수 있는 서비스입니다. 사용자는 자신의 위치나 관심 지역에서 신뢰할 수 있는 식당을 쉽게 찾을 수 있습니다.
 
  ![5조 TEAM BABO - CLEAN EAT-이미지-0](https://github.com/user-attachments/assets/ceaae1f3-86a4-48c7-b38a-fb99f0b0ee86)

@@ -57,8 +57,8 @@
 
  ![의사소통 (3)](https://github.com/user-attachments/assets/1d09799e-45ce-480a-bac2-b509f768de38)
  
- ### [의사소통 프론트엔드](https://github.com/Songysp/DoctorChat_frontend)
- ### [의사소통 백엔드](https://github.com/Songysp/DoctorChat_BackEnd)
+ ### [의사소통](https://github.com/Songysp/DoctorChat_frontend)
+
 
  
  # PlanUP Project

@@ -44,7 +44,10 @@
 
  ## MotorShot 프로젝트
  
-### [MotorShot](https://github.com/Songysp/MotorShot/tree/master)
+[MotorShot FrontEnd](https://github.com/Songysp/MotorShot/tree/master)
+
+[MotorShot BackEnd](https://github.com/Songysp/MotorShot/tree/master)
+
  <details>
    <summary>펼치기/접기</summary>
 
@@ -70,7 +73,8 @@
  </details>
  
   ## 의사소통 프로젝트
- ### [의사소통](https://github.com/Songysp/DoctorChat_frontend)
+  
+[의사소통](https://github.com/Songysp/DoctorChat_frontend)
 
  <details>
    <summary>펼치기/접기</summary>
@@ -107,11 +111,11 @@ GPT-NeoX 기반의 Polygloy-ko 모델을 활용하여, 사용자의 증상을 �
  
  ## PlanUP Project
 
- ### [PlanUP FrontEnd](https://github.com/Songysp/PlanUP_frontend)
+[PlanUP FrontEnd](https://github.com/Songysp/PlanUP_frontend)
  
- ### [PlanUP BackEnd](https://github.com/Songysp/PlanUP_backend)
+[PlanUP BackEnd](https://github.com/Songysp/PlanUP_backend)
  
- ### [스토어 링크](https://play.google.com/store/apps/details?id=com.PlanUP&pli=1)
+[스토어 링크](https://play.google.com/store/apps/details?id=com.PlanUP&pli=1)
  
  <details>
    <summary>펼치기/접기</summary>
@@ -136,7 +140,7 @@ GPT-NeoX 기반의 Polygloy-ko 모델을 활용하여, 사용자의 증상을 �
  
  ## CleanEat Project
  
- ### [CleanEAT](https://github.com/Songysp/CleanEat-webproject)
+[CleanEAT](https://github.com/Songysp/CleanEat-webproject)
  
   <details>
    <summary>펼치기/접기</summary>

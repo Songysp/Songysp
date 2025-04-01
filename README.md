@@ -1,8 +1,17 @@
+안녕하세요 신입 AI개발자 송윤섭입니다.
 
-  # 프로젝트
+* AI 기반 챗봇 및 OCR 개발 전문가 과정
+2024-03-08 ~ 2024-09-06
+
+* 고려사이버대학교 AI데이터 학부- AI 데이터분석 전공 2024-09 ~ (재학중)
+
+      
+
+# Project
+  
 링크를 통해, 상세한 정보 및 코드를 확인하실 수 있습니다.
 
- ## MotorShot 프로젝트
+ ## MotorShot 프로젝트 (오토바이 핼멧미착용, 이상행동 탐지 CV프로젝트)
  
 [MotorShot FrontEnd](https://github.com/Songysp/MotorShot/tree/master)
 
@@ -32,7 +41,7 @@
  ![917ab1cda90918ceb58074243b46922f-17](https://github.com/user-attachments/assets/71933b91-fc70-4641-9975-01819cdd980f)
  </details>
  
-  ## 의사소통 프로젝트
+  ## 의사소통 프로젝트 (자연어처리 의료상담 챗봇 프로젝트)
   
 [의사소통](https://github.com/Songysp/DoctorChat_frontend)
 
@@ -69,7 +78,7 @@ GPT-NeoX 기반의 Polygloy-ko 모델을 활용하여, 사용자의 증상을 �
 
 
  
- ## PlanUP Project
+ ## PlanUP Project (취업 일정관리 캘린더 TODO 프로젝트)
 
 [PlanUP FrontEnd](https://github.com/Songysp/PlanUP_frontend)
  
@@ -98,7 +107,7 @@ GPT-NeoX 기반의 Polygloy-ko 모델을 활용하여, 사용자의 증상을 �
  </details>
 
  
- ## CleanEat Project
+ ## CleanEat WEB Project
  
 [CleanEAT](https://github.com/Songysp/CleanEat-webproject)
  
